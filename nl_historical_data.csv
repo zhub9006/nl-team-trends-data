@@ -1,0 +1,67 @@
+season,team,modern_name,division,wins,losses,win_pct,playoff_finish
+1876,Boston Red Stockings,Atlanta Braves,N/A,70,27,0.722,NL Pennant
+1876,Chicago White Stockings,Chicago Cubs,N/A,59,39,0.602,NL Runner-up
+1876,Cincinnati Red Stockings,Cincinnati Reds,N/A,52,46,0.531,—
+1877,Boston Red Stockings,Atlanta Braves,N/A,62,14,0.816,NL Pennant
+1877,Chicago White Stockings,Chicago Cubs,N/A,59,14,0.808,NL Runner-up
+1878,Providence,,N/A,59,25,0.702,NL Pennant
+1879,Providence,,N/A,59,25,0.702,NL Pennant
+1880,Chicago White Stockings,Chicago Cubs,N/A,67,17,0.798,NL Pennant—World Series Champs
+1881,Chicago White Stockings,Chicago Cubs,N/A,56,28,0.667,NL Pennant—World Series Champs
+1882,Providence,,N/A,52,20,0.722,NL Pennant
+1883,Philadelphia Quakers,Philadelphia Phillies,N/A,52,26,0.667,NL Pennant
+1884,Providence,,N/A,84,28,0.750,NL Pennant—World Series Champs
+1885,Chicago White Stockings,Chicago Cubs,N/A,87,25,0.777,NL Pennant—World Series Champs
+1886,Chicago White Stockings,Chicago Cubs,N/A,90,34,0.726,NL Pennant—World Series Champs
+1887,Detroit Wolverines,,N/A,79,45,0.637,NL Pennant
+1888,New York Giants,New York Giants,N/A,84,47,0.641,NL Pennant—World Series Champs
+1889,New York Giants,New York Giants,N/A,83,43,0.659,NL Pennant—World Series Champs
+1890,Boston Beaneaters,Boston Braves,N/A,81,45,0.643,NL Pennant
+1891,Boston Beaneaters,Boston Braves,N/A,87,51,0.629,NL Pennant
+1892,Boston Beaneaters,Boston Braves,N/A,102,48,0.680,NL Pennant—World Series Champs
+1893,Boston Beaneaters,Boston Braves,N/A,86,43,0.667,NL Pennant
+1894,Baltimore Orioles,,N/A,89,39,0.695,NL Pennant
+1895,Baltimore Orioles,,N/A,87,43,0.669,NL Pennant
+1896,Baltimore Orioles,,N/A,90,39,0.698,NL Pennant
+1897,Boston Beaneaters,Boston Braves,N/A,93,39,0.705,NL Pennant—World Series Champs
+1899,Brooklyn Superbas,Brooklyn Dodgers,N/A,101,47,0.682,NL Pennant
+1900,Brooklyn Superbas,Brooklyn Dodgers,N/A,82,54,0.603,NL Pennant—World Series Champs
+1901,Pittsburgh Pirates,Pittsburgh Pirates,N/A,90,49,0.647,NL Pennant
+1902,Pittsburgh Pirates,Pittsburgh Pirates,N/A,103,36,0.741,NL Pennant
+1903,Pittsburgh Pirates,Pittsburgh Pirates,N/A,91,49,0.647,NL Pennant—World Series Champs
+1904,New York Giants,New York Giants,N/A,106,47,0.693,NL Pennant
+1905,New York Giants,New York Giants,N/A,105,48,0.688,NL Pennant—World Series Champs
+1906,Chicago Cubs,Chicago Cubs,N/A,116,36,0.763,NL Pennant
+1908,Chicago Cubs,Chicago Cubs,N/A,99,55,0.643,NL Pennant—World Series Champs
+1909,Pittsburgh Pirates,Pittsburgh Pirates,N/A,110,42,0.724,NL Pennant—World Series Champs
+1913,Philadelphia Phillies,Philadelphia Phillies,N/A,88,63,0.583,NL Pennant
+1916,Philadelphia Phillies,Philadelphia Phillies,N/A,91,62,0.595,NL Pennant
+1920,Brooklyn Dodgers,Brooklyn Dodgers,N/A,93,61,0.604,NL Pennant
+1921,New York Giants,New York Giants,N/A,94,59,0.614,NL Pennant
+1924,New York Giants,New York Giants,N/A,93,60,0.608,NL Pennant
+1927,New York Giants,New York Giants,N/A,92,62,0.597,NL Pennant—World Series Champs
+1930,St. Louis Cardinals,St. Louis Cardinals,N/A,92,62,0.597,NL Pennant—World Series Champs
+1934,St. Louis Cardinals,St. Louis Cardinals,N/A,95,58,0.622,NL Pennant—World Series Champs
+1942,Brooklyn Dodgers,Brooklyn Dodgers,N/A,104,50,0.675,NL Pennant
+1945,Chicago Cubs,Chicago Cubs,N/A,98,56,0.636,NL Pennant—World Series Champs
+1951,New York Giants,New York Giants,N/A,98,62,0.610,NL Pennant—World Series Champs
+1954,New York Giants,New York Giants,N/A,97,57,0.629,NL Pennant—World Series Champs
+1969,New York Mets,New York Mets,NL East,100,62,0.617,NL Pennant—World Series Champs
+1973,Cincinnati Reds,Cincinnati Reds,NL West,99,62,0.616,NL Pennant
+1980,Philadelphia Phillies,Philadelphia Phillies,NL East,91,71,0.562,NL Pennant—World Series Champs
+1981,Los Angeles Dodgers,Los Angeles Dodgers,NL West,63,50,0.557,WS Champs (strike season)
+1986,New York Mets,New York Mets,NL East,108,54,0.667,NL Pennant—World Series Champs
+1993,Philadelphia Phillies,Philadelphia Phillies,NL East,97,67,0.591,NL Pennant
+1998,Atlanta Braves,Atlanta Braves,NL East,106,56,0.654,NL Pennant
+2001,Arizona Diamondbacks,Arizona Diamondbacks,NL West,92,70,0.568,NL Pennant—World Series Champs
+2001,Atlanta Braves,Atlanta Braves,NL East,88,74,0.543,NL Pennant
+2005,St. Louis Cardinals,St. Louis Cardinals,NL Central,100,62,0.617,NL Pennant—World Series Champs
+2010,San Francisco Giants,San Francisco Giants,NL West,92,70,0.568,NL Pennant—World Series Champs
+2012,San Francisco Giants,San Francisco Giants,NL West,94,68,0.580,NL Pennant—World Series Champs
+2014,San Francisco Giants,San Francisco Giants,NL West,88,74,0.543,NL Pennant—World Series Champs
+2017,Los Angeles Dodgers,Los Angeles Dodgers,NL West,104,58,0.642,NL Pennant
+2018,Atlanta Braves,Atlanta Braves,NL East,90,72,0.556,NL Pennant
+2020,Los Angeles Dodgers,Los Angeles Dodgers,NL West,43,17,0.717,NL Pennant—World Series Champs
+2021,Atlanta Braves,Atlanta Braves,NL East,88,73,0.547,NL Pennant—World Series Champs
+2023,Atlanta Braves,Atlanta Braves,NL East,104,58,0.642,NL Pennant
+2024,Los Angeles Dodgers,Los Angeles Dodgers,NL West,98,64,0.605,NL Pennant—World Series Champs
