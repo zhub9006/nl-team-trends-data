@@ -1,16 +1,16 @@
-franchise,first_season,division,games,wins,losses,win_pct,pennants,ws_titles,last_pennant,last_ws_title
-San Francisco Giants,1883,West,21722,11663,10059,.535,23,8,2014,2014
-Los Angeles Dodgers,1884,West,21722,11586,10136,.531,26,8,2025,2025
-St. Louis Cardinals,1882,Central,22486,11413,11073,.509,19,11,2024,2011
-Chicago Cubs,1876,Central,22222,11474,10748,.516,17,3,2016,2016
-Cincinnati Reds,1882,Central,22222,11060,11162,.498,10,5,1995,1990
-Atlanta Braves,1876,East,22070,11245,10825,.504,18,4,2021,2021
-Pittsburgh Pirates,1882,Central,21820,10959,10861,.501,9,5,1979,1979
-Philadelphia Phillies,1883,East,22222,10357,11865,.466,8,2,2025,2009
-New York Mets,1962,East,9520,4899,4621,.514,2,2,2015,1986
-Washington Nationals,1969,East,8230,4379,3851,.532,0,0,-,-
-San Diego Padres,1969,West,7980,4265,3715,.533,0,0,-,-
-Milwaukee Brewers,1969,Central,8920,4464,4456,.503,0,0,-,-
-Miami Marlins,1993,East,4280,2435,1845,.569,2,2,2003,2003
-Colorado Rockies,1993,West,4760,2403,2357,.505,0,0,-,-
-Arizona Diamondbacks,1998,West,4160,2216,1944,.532,1,1,2001,2001
+franchise,first_season,current_name,division,games_played,wins,losses,win_percentage,pennants,ws_titles,last_pennant,last_ws_title
+San Francisco Giants,1883,San Francisco Giants,West,21722,11663,10059,.535,23,8,2014,2014
+Los Angeles Dodgers,1884,Los Angeles Dodgers,West,21722,11586,10136,.531,26,8,2025,2025
+St. Louis Cardinals,1882,St. Louis Cardinals,Central,22486,11413,11073,.509,19,11,2024,2011
+Chicago Cubs,1876,Chicago Cubs,Central,22222,11474,10748,.516,17,3,2016,2016
+Cincinnati Reds,1882,Cincinnati Reds,Central,22222,11060,11162,.498,10,5,1995,1990
+Atlanta Braves,1876,Atlanta Braves,East,22070,11245,10825,.504,18,4,2021,2021
+Pittsburgh Pirates,1882,Pittsburgh Pirates,Central,21820,10959,10861,.501,9,5,1979,1979
+Philadelphia Phillies,1883,Philadelphia Phillies,East,22222,10357,11865,.466,8,2,2025,2009
+New York Mets,1962,New York Mets,East,9520,4899,4621,.514,2,2,2015,1986
+Washington Nationals,1969,Washington Nationals,East,8230,4379,3851,.532,0,0,—,—
+San Diego Padres,1969,San Diego Padres,West,7980,4265,3715,.533,0,0,—,—
+Milwaukee Brewers,1969,Milwaukee Brewers,Central,8920,4464,4456,.503,0,0,—,—
+Miami Marlins,1993,Miami Marlins,East,4280,2435,1845,.569,2,2,2003,2003
+Colorado Rockies,1993,Colorado Rockies,West,4760,2403,2357,.505,0,0,—,—
+Arizona Diamondbacks,1998,Arizona Diamondbacks,West,4160,2216,1944,.532,1,1,2001,2001
